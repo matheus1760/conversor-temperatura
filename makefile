@@ -1,5 +1,5 @@
 main: main.c
-	gcc -Wall -o conversor-temperatura main.c
+	g++ -Wall -o conversor-temperatura main.cpp
 	@echo Compilação bem-sucedida
 
 uninstall:
