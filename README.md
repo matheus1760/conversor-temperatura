@@ -6,8 +6,8 @@ Conversor de temperatura entre graus Celcius e Fahrenheit. Suporte para até 5 c
 
 ## Compilação:
 
-No diretório do repositório, digite no terminal: `make`
+`make`
 
 ## Desinstalação:
 
-Mesma lógica da compilação, mas `make uninstall`
+`make uninstall`
